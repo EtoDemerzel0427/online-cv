@@ -35,13 +35,13 @@ sidebar:
         
     interests:
       - item: Python
-        link:
+        link: https://www.python.org/
 
       - item: Data Mining
-        link:
+        link: https://en.wikipedia.org/wiki/Data_mining
 
       - item: Sci-Fi Novels
-        link:
+        link: https://www.goodreads.com/list/tag/sci-fi
 
 career-profile:
     title: Career Profile
@@ -49,8 +49,9 @@ career-profile:
       I am now an undergraduate in Beijing Univ. of Posts and Telecommunications majored in Computer Science.
       I also work as a research assistant in Institute of Automation, Chinese Academy of Science.
 
-      My research interests are among machine learning and data mining. My recent project(far from done) is a new
+      My research interests are among machine learning and data mining. My recent project(far from completed) is a new
       approach of bipartite network embedding.
+      
 
 education:
     - degree: Bachelor in Computer Science
@@ -60,8 +61,8 @@ education:
         I started my university life as a comuputer science undergraduate in BUPT in Fall, 2016, and am a junior
         student now.
 
-          - Bullet point
-          - Bullet point 
+          - Overall GPA: 88.38/100
+          - 
 
     - degree: 
       university: 
@@ -71,48 +72,29 @@ education:
        
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: 2018 - Present 
+      company: NLPR, CASIA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I work as a intern in National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Science.
+        My mentor is Doc Shu Wu.
 
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 
+      time: 
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+ 
 
-          - Bullet point
-          - Bullet point
+       
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: 
+      time: 
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      
 
 projects:
     title: Projects
