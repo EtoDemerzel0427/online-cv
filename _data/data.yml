@@ -51,8 +51,8 @@ career-profile:
     summary: |
         I am Weiran Huang. Currently, I am a fourth-year computer science undergrad at Beijing University 
         of Posts and Telecommunications. Previously, I was an R&D intern at <em>MOMO Inc.</em>, a research Assistant
-        at Chinese Academy of Sciences and Penn State University respectively. In Feb. 2020, I will start a new
-        internship at Microsoft Research Aisa.
+        at <em>Chinese Academy of Sciences</em> and <em>Penn State University</em> respectively. In Feb. 2020, I will start a new
+        internship at <em>Microsoft Research Aisa</em>.
 
         In my opinion, computer science is a field where scientific research and engineering are closely combined. 
         As one who has experience in both academia and industry, my career ambition is to bridge the gap between
@@ -66,13 +66,9 @@ education:
       university: Beijing University of Posts and Telecommunications
       time: 2016 - 2020
       details: |
+
           - GPA: 88.23/100
           - Rank: 25/315
-
-    - degree: 
-      university: 
-      time: 
-      details: |
   
        
 
@@ -91,16 +87,17 @@ experiences:
       details: |
           
           - Developed a real-time face tracking tool which introduced dynamic rigidity prior to 3D face reconstruction, increased the stability
-          score by 25.7% under drastic poses and expressions.
+          score by <strong>25.7%</strong> under drastic poses and expressions.
           - Translated an existing MATLAB project into C++ using OpenCV, and modularized the code for easier maintenance and higher efficiency.
-          -  Replaced the projection method in our face-changing app, “ZAO” with perspective projection, increased the reconstruction accuracy
-          by 11.4%.
+          -  Replaced the projection method in our face-changing app, <em>“ZAO”</em> with perspective projection, increased the reconstruction accuracy
+          by <strong>11.4%</strong>.
 
     - role: Summer Research Intern
       time: 2019.6 - 2019.8
       company: Penn State University
       details: |
-          
+          I researched on graph adversarial learning, speficically, robust graph neural network models, under the supervision of Prof. 
+          Suhang Wang at Penn State University. 
           - Extensively studied several academic papers published in top conferences on graph adversarial learning.
           - Implemented several graph adversarial attack algorithms in Python, achieved comparable results as reported in papers but lower 
           overhead.
@@ -109,40 +106,36 @@ experiences:
       time: 2018.5 - 2019.5
       company: Institute of Automation, Chinese Academy of Sciences
       details: |
-          
+          I researched on network embedding and graph neural networks under the supervision of Dr. Shu Wu at CASIA. I was also a member of
+          <em>Scientific Innovation Training Program</em>.
           - Actively participated in several research projects on recommender systems and graph mining.
-          - Proposed a novel Graph Convolutional Network variant GraphAIR with cooperators, which is the first to explicitly take into account 
-          the non-linear neighborhood interactions. The paper of GraphAIR has been submitted to TKDE, preprint available here on arxiv.
-          - Implemented GraphAIR in Tensorflow, and it outperformed all baselines by significant margins on node classification and link
-          prediction tasks, ranking first, second and fourth on 3 benchmark datasets respectively on paperswithcode.com.
+          - Proposed a novel Graph Convolutional Network variant <em>GraphAIR</em> with cooperators, which is the first to explicitly take into account 
+          the non-linear neighborhood interactions. The paper of <em>GraphAIR</em> has been submitted to TKDE, preprint available <a href="https://arxiv.org/abs/1911.01731">
+          here</a> on arxiv.
+          - Implemented <em>GraphAIR</em> in Tensorflow, and it outperformed all baselines by significant margins on node classification and link
+          prediction tasks, ranking <strong>first, second and fourth</strong> on 3 benchmark datasets respectively on <a href="https://paperswithcode.com/">
+          paperswithcode.com</a>.
 
       
 
 projects:
     title: Projects
     intro: >
-      
+        
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Quarto
+        link: "https://github.com/EtoDemerzel0427/Quarto"
+        tagline: "A toy-level, self-implemented deep learning library with autograd.."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: FaceMask
+        link: "https://github.com/EtoDemerzel0427/face_model"
+        tagline: "An AR face tracking tool which generates real-time masks over human faces in the video."
 
-      - title: Tempo
+      - title: SimpleDNS
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A simple DNS server written in Python, compatible with Windows, Linux and MacOS."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -152,17 +145,10 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "GraphAIR: Graph Representation Learning with Neighborhood Aggregation and Interaction"
+        authors: Fenyu Hu, Yanqiao Zhu, Shu Wu, <strong>Weiran Huang</strong>, Liang Wang, Tieniu Tan
+        conference: In submission to IEEE Transactions on Knowledge and Data Engineering
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
