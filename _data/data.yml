@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Weiran Huang
     tagline: Computer Science Undergraduate
-    avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: weiran_photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: huangweiran1998@outlook.com
     phone: 
     website: huangweiran.club #do not add http://
-    linkedin: 
+    linkedin: weiranhuang
     github: EtoDemerzel0427
     gitlab:
     bitbucket:
@@ -28,7 +28,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Read/Write
+        level: Advanced
 
       - idiom: French
         level: Beginner
@@ -42,27 +42,32 @@ sidebar:
 
       - item: Sci-Fi Novels
         link: https://www.goodreads.com/list/tag/sci-fi
+      
+      - item: FC Barcelona
+        link: https://www.fcbarcelona.com/
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      I am now an undergraduate in Beijing Univ. of Posts and Telecommunications majored in Computer Science.
-      I also work as a research assistant in Institute of Automation, Chinese Academy of Science.
+        I am Weiran Huang. Currently, I am a fourth-year computer science undergrad at Beijing University 
+        of Posts and Telecommunications. Previously, I was an R\&D intern at MOMO Inc., a research Assistant
+        at Chinese Academy of Sciences and Penn State University respectively. In Feb. 2020, I will start a new
+        internship at Microsoft Research Aisa.
 
-      My research interests are among machine learning and data mining. My recent project(far from completed) is a new
-      approach of bipartite network embedding.
+        In my opinion, computer science is a field where scientific research and engineering are closely combined. 
+        As one who has experience in both academia and industry, my career ambition is to bridge the gap between
+        advanced theories and real-world applications to make human's life better. 
+
+        To achieve this goal, my current plan is to pursue a master's degree in CS or ECE in North America. 
       
 
 education:
-    - degree: Bachelor in Computer Science
+    - degree: B.ENG. in Computer Science
       university: Beijing University of Posts and Telecommunications
       time: 2016 - 2020
       details: |
-        I started my university life as a comuputer science undergraduate in BUPT in Fall, 2016, and am a junior
-        student now.
-
-          - Overall GPA: 88.38/100
-          - 
+          - GPA: 88.23/100
+          - Rank: 25/315
 
     - degree: 
       university: 
@@ -72,36 +77,51 @@ education:
        
 
 experiences:
+    - role: (Incoming) R\&D Intern
+      time: 2019.2 - Present 
+      company: Microsoft Research Asia
+      details: |
+        
+          I will join the ARD Incubation Group at MSRA working on Spatial-Temporal Prediction problems for traffic scheduling and resource
+          optimization from Feb. 11th 2020.
+
+    - role: R\&D Intern
+      time: 2019.9 - 2020.1
+      company: MOMO Inc.
+      details: |
+          
+          - Developed a real-time face tracking tool which introduced dynamic rigidity prior to 3D face reconstruction, increased the stability
+          score by 25.7% under drastic poses and expressions.
+          - Translated an existing MATLAB project into C++ using OpenCV, and modularized the code for easier maintenance and higher efficiency.
+          -  Replaced the projection method in our face-changing app, “ZAO” with perspective projection, increased the reconstruction accuracy
+          by 11.4%.
+
+    - role: Summer Research Intern
+      time: 2019.6 - 2019.8
+      company: Penn State University
+      details: |
+          
+          - Extensively studied several academic papers published in top conferences on graph adversarial learning.
+          - Implemented several graph adversarial attack algorithms in Python, achieved comparable results as reported in papers but lower 
+          overhead.
+      
     - role: Research Assistant
-      time: 2018 - Present 
-      company: NLPR, CASIA
+      time: 2018.5 - 2019.5
+      company: Institute of Automation, Chinese Academy of Sciences
       details: |
-        I work as an intern in National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Science.
-        My mentor is Doc Shu Wu.
+          
+          - Actively participated in several research projects on recommender systems and graph mining.
+          - Proposed a novel Graph Convolutional Network variant GraphAIR with cooperators, which is the first to explicitly take into account 
+          the non-linear neighborhood interactions. The paper of GraphAIR has been submitted to TKDE, preprint available here on arxiv.
+          - Implemented GraphAIR in Tensorflow, and it outperformed all baselines by significant margins on node classification and link
+          prediction tasks, ranking first, second and fourth on 3 benchmark datasets respectively on paperswithcode.com.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: 
-      time: 
-      company: 
-      details: |
- 
-
-       
-
-    - role: 
-      time: 
-      company: 
-      details: |
       
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
 
     assignments:
       - title: Velocity
