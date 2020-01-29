@@ -131,7 +131,7 @@ projects:
     assignments:
       - title: Quarto
         link: "https://github.com/EtoDemerzel0427/Quarto"
-        tagline: "A toy-level, self-implemented deep learning library with autograd.."
+        tagline: "A toy-level, self-implemented deep learning library with autograd."
 
       - title: FaceMask
         link: "https://github.com/EtoDemerzel0427/face_model"
