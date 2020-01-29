@@ -121,6 +121,8 @@ experiences:
 projects:
     title: Projects
     intro: >
+        Some of the following projects are my individual projects, while others are for my on-campus courses.
+        Quarto is the project I am actively working on recently.
         
 
     assignments:
@@ -133,16 +135,14 @@ projects:
         tagline: "An AR face tracking tool which generates real-time masks over human faces in the video."
 
       - title: SimpleDNS
-        link: "#"
+        link: "https://github.com/EtoDemerzel0427/simpleDNS"
         tagline: "A simple DNS server written in Python, compatible with Windows, Linux and MacOS."
 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The following paper was finished while I was a research intern at NLPR, CASIA.
 
     papers:
       - title: "GraphAIR: Graph Representation Learning with Neighborhood Aggregation and Interaction"
@@ -154,23 +154,37 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: PyTorch
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Tensorflow
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C/C++
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Git
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: MATLAB
+        level: 75%
+
+      - name: LaTEX
+        level: 75%
+
+      - name: Golang
+        level: 65%
+
+      - name: Javascript
         level: 60%
+
+      - name: SML
+        level: 60%
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
