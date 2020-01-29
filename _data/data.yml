@@ -50,7 +50,7 @@ career-profile:
     title: About Me
     summary: |
         I am Weiran Huang. Currently, I am a fourth-year computer science undergrad at Beijing University 
-        of Posts and Telecommunications. Previously, I was an R\&D intern at MOMO Inc., a research Assistant
+        of Posts and Telecommunications. Previously, I was an R&D intern at <em>MOMO Inc.</em>, a research Assistant
         at Chinese Academy of Sciences and Penn State University respectively. In Feb. 2020, I will start a new
         internship at Microsoft Research Aisa.
 
@@ -77,7 +77,7 @@ education:
        
 
 experiences:
-    - role: (Incoming) R\&D Intern
+    - role: (Incoming) R&D Intern
       time: 2019.2 - Present 
       company: Microsoft Research Asia
       details: |
@@ -85,7 +85,7 @@ experiences:
           I will join the ARD Incubation Group at MSRA working on Spatial-Temporal Prediction problems for traffic scheduling and resource
           optimization from Feb. 11th 2020.
 
-    - role: R\&D Intern
+    - role: R&D Intern
       time: 2019.9 - 2020.1
       company: MOMO Inc.
       details: |
