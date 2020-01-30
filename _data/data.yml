@@ -88,7 +88,7 @@ experiences:
       time: 2019.9 - 2020.1
       company: MOMO Inc.
       details: |
-          
+          I worked in the 3D Reconstruction Group, Deep Learning Lab at MOMO Inc., under Dr. Tianxiang Zheng's mentorship.
           - Developed a real-time face tracking tool which introduced dynamic rigidity prior to 3D face reconstruction, increased the stability
           score by <strong>25.7%</strong> under drastic poses and expressions.
           - Translated an existing MATLAB project into C++ using OpenCV, and modularized the code for easier maintenance and higher efficiency.
